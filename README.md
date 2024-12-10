@@ -3,7 +3,7 @@
 Students will learn to create structured database environments that incorporate basic 
 processing functionality and allow for data management, data manipulation, and data analysis. 
 Students will also construct and analyze queries to address data requirements.
-Course Competencies
+## Course Competencies
 This course covers the following competencies, which represent the knowledge and skills 
 relevant to your field:
 • DAD-10286: Create a structured database through the use of relational concepts
