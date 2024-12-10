@@ -10,4 +10,5 @@ relevant to your field:
 - DAD-10287: Implement basic processing functionalities to create new structured 
 database environments
 - DAD-20288: Analyze the results of queries constructed to address data requirements
+
 This course uses Codio, a cloud-based integrated development environment (IDE).
